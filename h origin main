@@ -1,0 +1,26 @@
+[33mcommit 5b2eb86e1f5e0bcab0cbafc3e0bb0c6641fe902c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 3bc8b5a 3ab50d1
+Author: aubry77 <aubreyletson77@gmail.com>
+Date:   Tue Dec 31 05:07:00 2024 -0600
+
+    Merge branch 'main' of https://github.com/Aubry77/module-2-lesson-6-strings
+    
+    This merge is necessary to synchronize the local repository with the remote repository and incorporate the latest changes.
+
+[33mcommit 3bc8b5ae47adf91fe7324421174e84ceb51af3b9[m
+Author: aubry77 <aubreyletson77@gmail.com>
+Date:   Tue Dec 31 04:22:44 2024 -0600
+
+    first commit
+
+[33mcommit 3ab50d1437600929702f549521a20c8797aa694a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Aubry77 <aubreyletson77@gmail.com>
+Date:   Tue Dec 31 04:20:50 2024 -0600
+
+    Update README.md
+
+[33mcommit 2baed6043b981c056f0a178f5560b4cad39c3bd9[m
+Author: Aubry77 <aubreyletson77@gmail.com>
+Date:   Tue Dec 31 04:18:39 2024 -0600
+
+    Initial commit
